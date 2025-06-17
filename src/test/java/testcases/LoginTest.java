@@ -19,8 +19,7 @@ public class LoginTest extends BaseTest{
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 		login.doLogin("priyankatestpatel@gmail.com", "Job@2025Job@2025");
-		//Assert.fail("Login Test Failed");
-
+		Assert.fail("Login Test Failed");
 	}
 
 }
