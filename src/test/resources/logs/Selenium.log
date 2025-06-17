@@ -1,0 +1,32 @@
+19:01:52,541 DEBUG devpinoyLogger:60 - Config file loaded
+19:01:52,545 DEBUG devpinoyLogger:74 - OR file loaded
+19:01:55,647 DEBUG devpinoyLogger:118 - Navigated to : https://www.zoho.com/ on browser chrome
+19:01:56,664 DEBUG devpinoyLogger:135 - Clicking on : loginlink_XPATH
+19:01:57,031 DEBUG devpinoyLogger:147 - Typing in : email_CSS value priyankatestpatel@gmail.com
+19:01:57,179 DEBUG devpinoyLogger:135 - Clicking on : nextbtn_CSS
+19:01:57,384 DEBUG devpinoyLogger:147 - Typing in : password_CSS value Job@2025Job@2025
+19:01:57,467 DEBUG devpinoyLogger:135 - Clicking on : signbtn_CSS
+19:01:57,488 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19:01:57,489 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19:01:57,490 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:01:57,491 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:01:57,491 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/priya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19:01:59,393 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19:01:59,393 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19:01:59,393 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:01:59,395 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:01:59,395 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/priya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19:02:04,603 DEBUG devpinoyLogger:135 - Clicking on : crmlink2_XPATH
+19:02:05,184 DEBUG devpinoyLogger:135 - Clicking on : accountstab_XPATH
+19:02:06,319 DEBUG devpinoyLogger:135 - Clicking on : createaccountbtn_XPATH
+19:02:07,896 DEBUG devpinoyLogger:147 - Typing in : accountname_CSS value Priyanka
+19:02:07,896 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19:02:07,897 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19:02:07,897 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:02:07,897 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:02:07,898 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/priya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19:02:08,230 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+19:02:08,230 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+19:02:08,231 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:02:08,231 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:02:08,231 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/priya/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
